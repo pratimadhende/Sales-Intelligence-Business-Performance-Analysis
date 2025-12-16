@@ -90,6 +90,9 @@ B.Sc. Computer Science | Data Analytics & Power BI Enthusiast
 
 This project is created for educational and portfolio purposes.
 
+---
+ 
+## 🔹Dashboards Preview
 
 Sales Intelligence Business Performance
 <img src="https://github.com/pratimadhende/Sales-Intelligence-Business-Performance-Analysis/blob/bbbc37a340ad6690e8ef536eee2b297ae8cee30e/01_Business%20Performance%20Dashboard.png" alt="Image Description" width="500">
@@ -99,3 +102,4 @@ Product Performance Analysis
 <br>
 Customer Segment Performance Analysis
 <img src="https://github.com/pratimadhende/Sales-Intelligence-Business-Performance-Analysis/blob/bbbc37a340ad6690e8ef536eee2b297ae8cee30e/03_Customer%20%26%20Segment%20Analysis%20Dashboard.png" alt="Image Description" width="500">
+
