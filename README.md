@@ -95,11 +95,20 @@ This project is created for educational and portfolio purposes.
 ## 🔹Dashboards Preview
 
 Sales Intelligence Business Performance
+<br>
+<br>
 <img src="https://github.com/pratimadhende/Sales-Intelligence-Business-Performance-Analysis/blob/bbbc37a340ad6690e8ef536eee2b297ae8cee30e/01_Business%20Performance%20Dashboard.png" alt="Image Description" width="500">
 <br>
+<br>
 Product Performance Analysis
+<br>
+<br>
 <img src="https://github.com/pratimadhende/Sales-Intelligence-Business-Performance-Analysis/blob/bbbc37a340ad6690e8ef536eee2b297ae8cee30e/02_Product%20Performance%20Dashboard.png" alt="Image Description" width="500">
 <br>
+<br>
 Customer Segment Performance Analysis
+<br>
+<br>
 <img src="https://github.com/pratimadhende/Sales-Intelligence-Business-Performance-Analysis/blob/bbbc37a340ad6690e8ef536eee2b297ae8cee30e/03_Customer%20%26%20Segment%20Analysis%20Dashboard.png" alt="Image Description" width="500">
+
 
